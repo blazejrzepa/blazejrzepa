@@ -11,6 +11,9 @@ I partner with founders and product teams on **product strategy**, **early-stage
 - 🧠 Interests: AI in products, design systems, UX for complex B2B tools
 - 🌍 Kraków, PL (remote/hybrid)
 - ✉️ blazej.rzepa@gmail.com · [Website](https://blakerzepa.com) · [LinkedIn](https://www.linkedin.com/in/blazejrzepa/) · [X](https://x.com/blakerzepa)
+  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blazejrzepa&bg_color=0b0f14&color=e6edf3&title_color=e6edf3&border_color=232b36&line=58a6ff&point=1f6feb&area=true&area_color=0e2a5a&hide_border=true&radius=8)
 
 ## Selected work
 - [Eclipse OS — Real-Time Mission Control](https://blakerzepa.com/work/eclipse-os)
