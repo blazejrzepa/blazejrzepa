@@ -7,22 +7,22 @@ I help B2B/B2C teams lead, design, and ship products end-to-end. From 0→1 disc
 I partner with founders and product teams on **product strategy**, **early-stage leadership**, and **design team ops**—setting the North Star, shaping the roadmap, and delivering the first reliable slice of a design system.
 
 
-- 🔭 Now building: **Fragment UI**( (AI-native design system), **CleverHive Space**(https://blakerzepa.com/work/eclipse-os) (mission control UI), **AI Disclosure & Governance Checker)
+- 🔭 Now building: **Fragment UI**( (AI-native design system), **CleverHive Space** (mission control UI), **AI Disclosure & Governance Checker)
 - 🧠 Interests: AI in products, design systems, UX for complex B2B tools
 - 🌍 Kraków, PL (remote/hybrid)
 - ✉️ blazej.rzepa@gmail.com · [Website](https://blakerzepa.com) · [LinkedIn](https://www.linkedin.com/in/blazejrzepa/) · [X](https://x.com/blakerzepa)
 
 ## Selected work
-- **Eclipse OS — Real-Time Mission Control**(https://blakerzepa.com/work/eclipse-os)
+- [Eclipse OS — Real-Time Mission Control](https://blakerzepa.com/work/eclipse-os)
 I led discovery/UX and designed the mission timeline, map-linked sensors/cameras, POIs, and role-based views; set patterns and hi-fi prototypes.
 
-- **Lexmotion — Growth Redesign & Content Engine**(https://blakerzepa.com/work/lexmotion)
+- [Lexmotion — Growth Redesign & Content Engine](https://blakerzepa.com/work/lexmotion)
 I owned IA and high-intent pages, coordinated 30+ expert articles, built the design system, and guided WP/Elementor rollout and QA.
 
-- **SpacetimeOS — Operational OS for Complex Teams**(https://blakerzepa.com/work/spacetimeos)
+- [SpacetimeOS — Operating System for Physical Spaces](https://blakerzepa.com/work/spacetimeos)
 I defined product primitives and the interaction model, designed situational-awareness/alert flows, and established a cohesive design language.
 
-- **Workplace Safety — Privacy-First Contact Tracing**(https://blakerzepa.com/work/workplace-safety-contact-tracing)
+- [Workplace Safety — Privacy-First Contact Tracing](https://blakerzepa.com/work/workplace-safety-contact-tracing)
 I designed opt-in, privacy-first contact-tracing flows with data minimization, risk states/notifications, and role-based dashboards and consent.
 
 
